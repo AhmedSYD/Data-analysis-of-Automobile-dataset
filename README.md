@@ -3,7 +3,7 @@
 ENGO 645 - Spatial Databases & DataMining
 
 ## Overview:
-This project is the answer to the third assignment for the course (ENGO 645 - Spatial Databases & DataMining) that is taught at the University of Calgary. On this Project, I cleaned, processed, and visualized the [**Automobile dataset**](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data) by utilizing different techniques of data analysis, such as normalization, correlation analysis, ... etc. The scatter and box plots are proposed in the projects. You can find all the requirements of the project in this [**link**](https://drive.google.com/file/d/1GriSoKZpZ0bY5_geqha-zzAvEzkh6SHS/view?usp=sharing). 
+This project is the answer to the third assignment for the course (ENGO 645 - Spatial Databases & DataMining) that is taught at the University of Calgary. On this Project, I cleaned and processed the [**Automobile dataset**](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data) by utilizing different techniques of data analysis, such as normalization, correlation analysis, ... etc. Additionally, the visualization of the dataset attributes is proposed in this project (the scatter and box plots) for a better understanding of the pattern and correlation of the attributes. You can find all the requirements of the project in this [**link**](https://drive.google.com/file/d/1GriSoKZpZ0bY5_geqha-zzAvEzkh6SHS/view?usp=sharing). 
 
 
 ## System requirement:
