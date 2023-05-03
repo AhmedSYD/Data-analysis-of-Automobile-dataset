@@ -22,4 +22,4 @@ You can find all of these libraries in the `requirements.txt` and install all of
 * Then, run the `main.py` file to start the procedure of data processing and cleaning. You will notice after running that there are two folders (`out_files`and `out_figures`) are created that contain all output files and figures after processing and cleaning data. 
 
 ## Document:
-- You can find the detailed document of this project in this [**link**](https://drive.google.com/file/d/1b37PRiQcYvk_X5e9WM4VFKdGudOEjIfM/view?usp=sharing)
+- You can find the detailed document of this project in this [**link**](https://drive.google.com/file/d/1b37PRiQcYvk_X5e9WM4VFKdGudOEjIfM/view?usp=sharing).
